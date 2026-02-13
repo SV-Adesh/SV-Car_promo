@@ -8,14 +8,14 @@ export function Contact() {
   const contacts = [
     {
       name: "Satyaprasad",
-      phone: "+91 98765 43210",
-      email: "satyaprasad@yatratours.com",
+      phone: "+91 7019675494",
+      email: "abhisatyashetty420@gmail.com",
       icon: User,
     },
     {
       name: "Sushant",
-      phone: "+91 98765 43211",
-      email: "sushant@yatratours.com",
+      phone: "+91 8073637606",
+      email: "sushant@gmail.com",
       icon: User,
     },
   ];
